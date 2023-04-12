@@ -1,0 +1,11 @@
+D:\Visual Studio расположение\source\repos\PreDyplom\PreDyplom\bin\Debug\PreDyplom.exe.config
+D:\Visual Studio расположение\source\repos\PreDyplom\PreDyplom\bin\Debug\PreDyplom.exe
+D:\Visual Studio расположение\source\repos\PreDyplom\PreDyplom\bin\Debug\PreDyplom.pdb
+D:\Visual Studio расположение\source\repos\PreDyplom\PreDyplom\obj\Debug\PreDyplom.csproj.AssemblyReference.cache
+D:\Visual Studio расположение\source\repos\PreDyplom\PreDyplom\obj\Debug\PreDyplom.Form1.resources
+D:\Visual Studio расположение\source\repos\PreDyplom\PreDyplom\obj\Debug\PreDyplom.Form2.resources
+D:\Visual Studio расположение\source\repos\PreDyplom\PreDyplom\obj\Debug\PreDyplom.Properties.Resources.resources
+D:\Visual Studio расположение\source\repos\PreDyplom\PreDyplom\obj\Debug\PreDyplom.csproj.GenerateResource.cache
+D:\Visual Studio расположение\source\repos\PreDyplom\PreDyplom\obj\Debug\PreDyplom.csproj.CoreCompileInputs.cache
+D:\Visual Studio расположение\source\repos\PreDyplom\PreDyplom\obj\Debug\PreDyplom.exe
+D:\Visual Studio расположение\source\repos\PreDyplom\PreDyplom\obj\Debug\PreDyplom.pdb
